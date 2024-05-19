@@ -1,0 +1,16 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}The data}{2}{section.1.1}
+\contentsline {paragraph}{}{2}{section*.2}
+\contentsline {paragraph}{}{2}{section*.3}
+\contentsline {paragraph}{}{2}{section*.4}
+\contentsline {paragraph}{}{2}{section*.5}
+\contentsline {section}{\numberline {1.2}Literature}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Paper \emph {The Link-Prediction Problem for Social Networks} by David Liben-Nowell and Jon Kleinberg}{3}{subsection.1.2.1}
+\contentsline {paragraph}{}{3}{section*.6}
+\contentsline {paragraph}{}{3}{section*.7}
+\contentsline {paragraph}{Methods for Link Prediction}{3}{section*.8}
+\contentsline {subsection}{\numberline {1.2.2}Paper \emph {SimRank: A Measure of Structural-Context Similarity} by Glen Jeh and Jennifer Widom}{3}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Paper \emph {Social Friend Recommendation Based on Multiple Network Correlation} by Shangrong Huang, Jian Zhang, Lei Wang and Xian-Sheng Hua}{3}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Book \emph {Networks, Crowds, and Markets: Reasoning about a Highly Connected World} by David Easley}{4}{subsection.1.2.4}
+\contentsline {paragraph}{}{4}{section*.9}
